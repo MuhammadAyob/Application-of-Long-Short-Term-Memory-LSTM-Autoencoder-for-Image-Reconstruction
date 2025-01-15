@@ -38,22 +38,11 @@ This study highlights the promise of LSTM autoencoders for image reconstruction.
    git clone https://github.com/MuhammadAyob/Application-of-Long-Short-Term-Memory-LSTM-Autoencoder-for-Image-Reconstruction.git
    cd Application-of-Long-Short-Term-Memory-LSTM-Autoencoder-for-Image-Reconstruction
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-
-3. Run the training script:
-   ```bash
-   python train_autoencoder.py
-   
-4. Evaluate the model:
-   ```bash
-   python evaluate_model.py
-
 ## Conclusion
 
-This project demonstrates the capability of LSTM autoencoders in reconstructing blurred images and lays the groundwork for further exploration with advanced architectures. Contributions and suggestions for improvements are always welcome!
+This project demonstrates the capability of LSTM autoencoders in reconstructing blurred images and lays the groundwork for further exploration with advanced architectures. This repository is for demonstration purposes only. Code usage or distribution is not permitted without permission.
 
-## License
+## NB. Usage
 
-This project is licensed under the MIT License.
+This repository is intended for **demonstration purposes only**. The code is not licensed for public use, reproduction, or distribution without explicit permission from the author.
+
